@@ -1,0 +1,17 @@
+body{
+    background: red;
+    color: white;
+    font-family: "Inter";
+}
+h1{
+    font-size: 40px;
+}
+.arapper{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.video-item img {
+    width: 500px;
+    height: 300px;
+}
